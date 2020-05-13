@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">10117235 - Tugas UTS AKB</string>
+
+    <string name="fragment_home">Home</string>
+    <string name="fragment_contact">Home</string>
+    <string name="fragment_profile">Home</string>
+    <string name="menu_home" />
+    <string name="menu_gallery" />
+    <string name="menu_slideshow" />
+    <string name="farhan_firman_firdaus">Farhan Firman Firdaus</string>
+    <string name="kelas">Informatika 7</string>
+    <string name="univ">Universitas Komputer Indonesia</string>
+    <string name="_10117235">10117235</string>
+    <string name="_62_82130666630">62+82130666630</string>
+    <string name="farhanfirman99_gmail_com">farhanfirman99@gmail.com</string>
+    <string name="farhan_firman">farhan firman</string>
+    <string name="farhanff">farhanff</string>
+    <string name="farhanfffff">farhanfffff</string>
+    <string name="farhan_firman_f">Farhan FIrman F</string>
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_contact">Contact Me</string>
+    <string name="menu_friends">Friend List</string>
+
+    <string name="navigation_drawer_open">Open Nav Drawer</string>
+    <string name="navigation_drawer_close">Close Nav Drawer</string>
+    <string name="jule">Zulfan Nurrahman</string>
+
+</resources>
